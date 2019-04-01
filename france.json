@@ -1,0 +1,82 @@
+{
+   "ville": [
+
+      {
+         "nom": "Paris",
+         "longitude": 2.333333,
+         "latitude": 48.866667
+      },
+
+      {
+         "nom": "Marseille",
+         "longitude": 5.400000,
+         "latitude": 43.300000
+      },
+      {
+         "nom": "Lyon",
+         "longitude": 4.835659,
+         "latitude": 45.764043
+      },
+      {
+         "nom": "Nice",
+         "longitude": 7.261953,
+         "latitude": 43.710173
+      },
+      {
+         "nom": "Bordeaux",
+         "longitude": -0.579180,
+         "latitude": 44.837789
+      },
+      {
+         "nom": "Lille",
+         "longitude": 3.057256,
+         "latitude": 50.629250
+      },
+      {
+         "nom": "Montpellier",
+         "longitude": 3.876716,
+         "latitude": 43.610769
+      },
+      {
+         "nom": "Nantes",
+         "longitude": -1.553621,
+         "latitude": 47.218371
+      },
+      {
+         "nom": "Nancy",
+         "longitude": 6.184417,
+         "latitude": 48.692054
+      },
+      {
+         "nom": "Metz",
+         "longitude": 6.175716,
+         "latitude": 49.119309
+      },
+      {
+         "nom": "Brest",
+         "longitude": -4.486076,
+         "latitude": 48.390394
+      },
+      {
+         "nom": "Toulouse",
+         "longitude": 1.444209,
+         "latitude": 43.604652
+      },
+      {
+         "nom": "Strasbourg",
+         "longitude": 7.752111,
+         "latitude": 48.573405
+      }
+      {
+         "nom": "Clermont-Ferrand",
+         "longitude": 3.087025,
+         "latitude": 45.777222
+      },
+      {
+         "nom": "Rennes",
+         "longitude": -1.677793,
+         "latitude": 48.117266
+      }
+
+   ]
+}
